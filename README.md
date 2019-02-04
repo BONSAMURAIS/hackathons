@@ -8,3 +8,9 @@
 ## Linked Data
 
 ### RDF
+
+## Querying
+
+### SPARQL
+
+* From the _source_: https://www.w3.org/TR/sparql11-query/
