@@ -7,11 +7,14 @@
 
 ## Linked Data
 
+* http://linkeddata.org/
+* http://lod-cloud.net/
+
 ### RDF
 
 ### From Relational DB to RDF datasets
 
-The w3c has a working group that has some ideas about translating Relational databases into RDF datasets at:
+* The w3c has a working group that has some ideas about translating Relational databases into RDF datasets at:
 https://www.w3.org/TR/r2rml/
 
 ## Querying
