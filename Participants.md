@@ -2,15 +2,15 @@
 
 ## In Barcelona
 
-* Chris Mutel (BONSAI)
-* Bo Weidema (BONSAI)
-* Tomas Navarrete (LIST)
-* Matteo Lissandrini (Aalborg)
-* Rutger Schurgers (PRé)
 * Miguel Astudillo (2.0)
+* Matteo Lissandrini (Aalborg)
+* Chris Mutel (BONSAI)
+* Tomas Navarrete (LIST)
+* Rutger Schurgers (PRé)
+* Bo Weidema (BONSAI)
 
 ## Working remotely
 
-* Miguel Remolona (Univ. Philippines Diliman)
 * Brandon Kuczenski (UCSB)
 * Massimo Pizzol (Aalborg)
+* Miguel Remolona (Univ. Philippines Diliman)
