@@ -7,6 +7,7 @@
 * Tomas Navarrete (LIST)
 * Matteo Lissandrini (Aalborg)
 * Rutger Schurgers (PRé)
+* Miguel Astudillo (2.0)
 
 ## Working remotely
 
