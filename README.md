@@ -1,24 +1,5 @@
-# Background reading
+# BONSAI 2019 Hackathon
 
-## Semantic web in general
+This repo is for the planning and execution of the BONSAI Hackathon in Barcelona from March 25-29, 2019.
 
 
-* The _official_ source, the w3c provides introductory material on the basic concepts of the semantic web https://www.w3.org/standards/semanticweb/
-
-## Linked Data
-
-* http://linkeddata.org/
-* http://lod-cloud.net/
-
-### RDF
-
-### From Relational DB to RDF datasets
-
-* The w3c has a working group that has some ideas about translating Relational databases into RDF datasets at:
-https://www.w3.org/TR/r2rml/
-
-## Querying
-
-### SPARQL
-
-* From the _source_: https://www.w3.org/TR/sparql11-query/
