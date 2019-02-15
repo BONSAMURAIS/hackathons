@@ -3,7 +3,9 @@
 ## In Barcelona
 
 * [Miguel Astudillo](mailto:Miguel.astudillo@lca-net.com) (2.0)
+* Agneta Ghose (Univ. Aalborg)
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) (Univ. Aalborg)
+* Stefano Merciai (2.0)
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) (LIST)
