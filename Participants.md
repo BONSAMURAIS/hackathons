@@ -3,6 +3,7 @@
 ## In Barcelona
 
 * [Miguel Astudillo](mailto:Miguel.astudillo@lca-net.com) (2.0)
+* Carlos Gaete (DIW)
 * Agneta Ghose (Univ. Aalborg)
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) (Univ. Aalborg)
 * Stefano Merciai (2.0)
