@@ -7,6 +7,7 @@
 * Agneta Ghose (Univ. Aalborg)
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) (Univ. Aalborg)
 * Stefano Merciai (2.0)
+* Tom Milross
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) (LIST)
