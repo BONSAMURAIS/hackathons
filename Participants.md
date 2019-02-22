@@ -12,7 +12,7 @@
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
-* Bo Weidema (BONSAI)
+* [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI)
 
 ## Working remotely
 
