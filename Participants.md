@@ -16,7 +16,7 @@
 
 ## Working remotely
 
-* [Elias Azzi](mailto:eazzi@kth.se) (KTH)
+* [Elias Azzi] (mailto:eazzi@kth.se) | [Github: ntropy-esa](https://github.com/ntropy-esa) (KTH)
 * [Brandon Kuczenski](mailto:bkuczenski@ucsb.edu) (UCSB)
 * [Massimo Pizzol](mailto:massimo@plan.aau.dk) (Univ. Aalborg)
 * [Miguel Remolona](mailto:mmremolona@yahoo.com.ph) (Univ. Philippines Diliman)
