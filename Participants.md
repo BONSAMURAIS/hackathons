@@ -9,7 +9,7 @@
 * Stefano Merciai (2.0)
 * Tom Milross
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
-* [Chris Mutel](mailto:chris.mutel@bonsai.uno) [Github: cmutel](https://github.com/cmutel) (BONSAI)
+* [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
 * Bo Weidema (BONSAI)
