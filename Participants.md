@@ -20,4 +20,4 @@
 * [Brandon Kuczenski](mailto:bkuczenski@ucsb.edu) (UCSB)
 * [Massimo Pizzol](mailto:massimo@plan.aau.dk) (Univ. Aalborg)
 * [Miguel Remolona](mailto:mmremolona@yahoo.com.ph) (Univ. Philippines Diliman)
-* Xiaojin Zhang (mailto:Xiaojin.Zhang@psi.ch) (Paul Scherrer Institut)
+* [Xiaojin Zhang](mailto:Xiaojin.Zhang@psi.ch) (Paul Scherrer Institut)
