@@ -3,7 +3,7 @@
 ## In Barcelona
 
 * [Miguel Astudillo](mailto:Miguel.astudillo@lca-net.com) [Github: mfastudillo](https://github.com/mfastudillo) (2.0)
-* Carlos Gaete (DIW)
+* [Carlos Gaete](mailto:cgaete@diw.de) | [Github: cdgaete](https://github.com/cdgaete) (DIW Berlin)
 * Agneta Ghose (Univ. Aalborg)
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) (Univ. Aalborg)
 * Stefano Merciai (2.0)
