@@ -31,6 +31,8 @@ In addition to the following, we intend to submit 1-2 scientific publications on
 
 ### Deliverable 4: A working model that follows the standards in deliverable 3
 
+This is being developed in the [bentso](https://github.com/BONSAMURAIS/bentso) repository.
+
 ### Stretch goal 1: An API specification and running implementation for the produced database
 
 ### Stretch goal 2: A set of global and regional independent validation data, and webpage tracking our values with these validation targets
