@@ -13,6 +13,7 @@
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
 * [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI)
+* [Arthur Jakobs](mailto:arthur.jakobs@indecol.uni-freiburg.de) | [Github: jakobsarthur](https://github.com/jakobsarthur) (Univ. Freiburg)
 
 ## Working remotely
 
