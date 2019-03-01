@@ -19,7 +19,7 @@
 
 * [Elias Azzi](mailto:eazzi@kth.se) | [Github: ntropy-esa](https://github.com/ntropy-esa) (KTH)
 * [Brandon Kuczenski](mailto:bkuczenski@ucsb.edu) (UCSB)
-* [Massimo Pizzol](mailto:massimo@plan.aau.dk) (Univ. Aalborg)
+* [Massimo Pizzol](mailto:massimo@plan.aau.dk) | [Github: massimopizzol](https://github.com/massimopizzol) (Univ. Aalborg) 
 * [Miguel Remolona](mailto:mmremolona@yahoo.com.ph) (Univ. Philippines Diliman)
 * [Xiaojin Zhang](mailto:Xiaojin.Zhang@psi.ch) (Paul Scherrer Institut)
 * [Felipe Cerdas](mailto:f.cerdasg@tu-braunschweig.de) | [Github: Felipecerdasmarin](https://github.com/Felipecerdasmarin) (TU Braunschweig)
