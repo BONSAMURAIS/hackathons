@@ -42,3 +42,15 @@ This is being developed in the [bentso](https://github.com/BONSAMURAIS/bentso) r
 ### Stretch goal 4: A simple web-based tool to compare directly competing statements present in the database
 
 For example, if we have incorporate muliple EEMRIO databases at some point - or if we import new data that is more recent/disaggregated/otherwise different than existing data.
+
+### Paper 1: Hackathon report to IJLCA
+
+Similar to reports from the LCA discussion forum. Not peer reviewed. All participants as authors.
+
+### Paper 2: From the ground up: A new approach to building LCA databases
+
+Must be open access. Authorship to be determined by contribution to paper writing. All participants acknowledged.
+
+### Paper 3: The world isn't flat: Making computational inventory models usable
+
+Must be open access. Authorship to be determined by contribution to paper writing. All participants acknowledged.
