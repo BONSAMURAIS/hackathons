@@ -1,0 +1,149 @@
+digraph D {
+    // Build with dot project-dependencies.dot -O -Tpng
+    // (needs graphviz installed)
+    // See https://renenyffenegger.ch/notes/tools/Graphviz/examples/index for more formatting
+
+    label = "Hackathon project dependencies (green means nice to have, red means required)";
+    labelloc = "t"; // place the label at the top (b seems to be default)
+
+    node [shape=plaintext fontname="Sans serif" fontsize="10"];
+
+    elem_flows [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>BONSAI Ontology</b></td></tr>
+         <tr><td align="left">Elementary flows</td></tr>
+       </table>
+    >];
+
+    skeleton [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Python skeleton</b></td></tr>
+         <tr><td align="left">Library framework</td></tr>
+       </table>
+    >];
+
+    webapp_skeleton [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Python skeleton</b></td></tr>
+         <tr><td align="left">Webapp framework</td></tr>
+       </table>
+    >];
+
+    bentso [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>bentso model</b></td></tr>
+         <tr><td align="left">Complete model</td></tr>
+       </table>
+    >];
+
+    wiki [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>RDF</b></td></tr>
+         <tr><td align="left">Update wiki</td></tr>
+       </table>
+    >];
+
+    ontologies [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>RDF</b></td></tr>
+         <tr><td align="left">Ontology list</td></tr>
+       </table>
+    >];
+
+    exiobase [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>BONSAI Ontology</b></td></tr>
+         <tr><td align="left">Exiobase extensions</td></tr>
+       </table>
+    >];
+
+    transparency [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Reproducible models</b></td></tr>
+         <tr><td align="left">Transparency guidelines</td></tr>
+       </table>
+    >];
+
+    tech_standards [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Reproducible models</b></td></tr>
+         <tr><td align="left">Technical standards</td></tr>
+       </table>
+    >];
+
+    software [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Software methods</b></td></tr>
+         <tr><td align="left">Recommendations</td></tr>
+       </table>
+    >];
+
+    started [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Getting started</b></td></tr>
+         <tr><td align="left">Contributors guide</td></tr>
+       </table>
+    >];
+
+    simapro [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>SimaPro IO</b></td></tr>
+         <tr><td align="left">SimaPro CSV IO tool</td></tr>
+       </table>
+    >];
+
+    simapro_csv [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>SimaPro IO</b></td></tr>
+         <tr><td align="left">SimaPro CSV format specified</td></tr>
+       </table>
+    >];
+
+    correspondence_software [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Correspondence tables</b></td></tr>
+         <tr><td align="left">Conversion tools</td></tr>
+       </table>
+    >];
+
+    correspondence_data [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Correspondence tables</b></td></tr>
+         <tr><td align="left">Data in common format</td></tr>
+       </table>
+    >];
+
+    browser [ label=<
+       <table border="1" cellborder="0" cellspacing="1">
+         <tr><td align="left"><b>Ontology browser</b></td></tr>
+         <tr><td align="left">Hosted web app</td></tr>
+       </table>
+    >];
+
+    skeleton -> bentso [color=green];
+    elem_flows -> bentso [color=red];
+    elem_flows -> ontologies [color=red];
+    exiobase -> ontologies [color=red];
+    ontologies -> wiki [color=red];
+    ontologies -> browser [color=red];
+    webapp_skeleton -> browser [color=green];
+    transparency -> bentso [color=green];
+    tech_standards -> bentso [color=red];
+    started -> browser [color=green];
+    started -> bentso [color=green];
+    ontologies -> simapro [color=red];
+    simapro_csv -> simapro [color=red];
+    bentso -> simapro [color=green];
+    transparency -> simapro [color=green];
+    tech_standards -> simapro [color=red];
+    software -> bentso [color=green];
+    software -> simapro [color=green];
+    software -> correspondence_software [color=green];
+    transparency -> correspondence_software [color=green];
+    correspondence_data -> correspondence_software [color=red];
+    ontologies -> correspondence_data [color=red];
+    correspondence_software -> bentso [color=green];
+    elem_flows -> exiobase [color=red];
+
+
+}
