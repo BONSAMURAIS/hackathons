@@ -6,7 +6,7 @@
 * [Carlos Gaete](mailto:cgaete@diw.de) | [Github: cdgaete](https://github.com/cdgaete) (DIW Berlin)
 * Agneta Ghose (Univ. Aalborg)
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) | [Github: kuzeko](https://github.com/kuzeko)  (Univ. Aalborg)
-* Stefano Merciai (2.0)
+* [Stefano Merciai](mailto:stefano.merciai@lca-net.com) | [Github: Stefano-MRC](https://github.com/Stefano-MRC) (2.0)
 * Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad)
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
