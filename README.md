@@ -25,6 +25,10 @@ In addition to the following, we intend to submit 1-2 scientific publications on
 
 ### Deliverable 1: A comprehensive ontology for industrial ecology and associated relevant data
 
+This is based on the description at https://github.com/BONSAMURAIS/bonsai/wiki/Data-Storage#specify-minimum-core-data-and-metadata-formats - to be formalised as a proper ontology pattern and an RDF schema. 
+
+To cover all aspects of Industrial Ecology, we would have to add "agents" of activities, as in the "[minimal ontology pattern](http://geog.ucsb.edu/~jano/LCA_pattern.pdf)", "assets" of these agents, and "behavioral rules" governing the interaction with their activities. This may be beyond the current hackathon. 
+
 ### Deliverable 2: An RDF database and associated tooling incorporating several large LCA data sources
 
 ### Deliverable 3: Data exchange standards for interoperable life cycle inventory models
@@ -54,3 +58,7 @@ Must be open access. Authorship to be determined by contribution to paper writin
 ### Paper 3: The world isn't flat: Making computational inventory models usable
 
 Must be open access. Authorship to be determined by contribution to paper writing. All participants acknowledged.
+
+### Paper 4: The BONSAI ontology for industrial ecology 
+
+Must be open access. Authorship to be determined by contribution to paper writing.
