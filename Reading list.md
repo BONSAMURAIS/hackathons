@@ -21,3 +21,9 @@ https://www.w3.org/TR/r2rml/
 ### SPARQL
 
 * From the _source_: https://www.w3.org/TR/sparql11-query/
+
+## Ontologies and LCA
+
+* [A Minimal Ontology Pattern for Life Cycle Assessment Data](http://geog.ucsb.edu/~jano/LCA_pattern.pdf)
+* [An Ontology For Specifying Spatiotemporal Scopes in Life Cycle Assessment](https://geog.ucsb.edu/~jano/stscope_ontology.pdf)
+* [LCA-oriented semantic representation for the product life cycle](https://doi-org.proxy.bnl.lu/10.1016/j.jclepro.2014.08.053)
