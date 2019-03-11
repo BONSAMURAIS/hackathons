@@ -26,4 +26,4 @@ https://www.w3.org/TR/r2rml/
 
 * [A Minimal Ontology Pattern for Life Cycle Assessment Data](http://geog.ucsb.edu/~jano/LCA_pattern.pdf)
 * [An Ontology For Specifying Spatiotemporal Scopes in Life Cycle Assessment](https://geog.ucsb.edu/~jano/stscope_ontology.pdf)
-* [LCA-oriented semantic representation for the product life cycle](https://doi-org.proxy.bnl.lu/10.1016/j.jclepro.2014.08.053)
+* [LCA-oriented semantic representation for the product life cycle](https://www.sciencedirect.com/science/article/pii/S0959652614008762)
