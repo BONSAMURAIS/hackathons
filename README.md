@@ -19,6 +19,27 @@ The BONSAI hackathon will be a first step in turning the ideals and standards de
 - [RDF](https://en.wikipedia.org/wiki/Resource_Description_Framework) approaches to knowledge management have numerous benefits (such as allowing to link different data sources consistently) and wide application but it's unclear how these can be integrated with 'classic' LCA databases.
 - More background on the relationships and open issues with LCA and open data [here](https://chris.mutel.org/next-steps.html#id2) and [here](https://lca-net.com/blog/next-step-open-lca-data/).
 
+## Working Groups
+
+See also the [working group dependency chart](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png).
+
+### bentso
+
+Create a model that queries the [ENTSO-E API](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html) to create dynamic electricity market mixes.
+
+* [Source code](https://github.com/BONSAMURAIS/bentso)
+* [Project management](https://github.com/BONSAMURAIS/bentso/projects/1)
+* Built on the [Python library skeleton](https://github.com/BONSAMURAIS/python-skeleton)
+* Follow the BONSAI specifications for transparent, reproducible, and open models
+* Inputs and outputs follow the BONSAI RDF ontology
+
+Deliverable: Complete working model by the end of the hackathon. 
+
+Stretch goal: Can be packaged in Docker and run as a web service.
+
+Group members: Arthur, Brandon, Carlos, Chris, Elias
+Coordinator: Chris
+
 ## Outputs
 
 In addition to the following, we intend to submit 1-2 scientific publications on the hackathon results after its conclusion.
