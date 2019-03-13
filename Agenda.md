@@ -29,7 +29,7 @@ I think that we will need an online meeting before the hackathon, about one week
 | Pre-calculate example results for EXIOBASE in Brightway | Chris |
 | Generate basic overview of existing BONSAI or other relevant outside resources | Chris |
 
-## Monday (All times in local BCN time)
+## Monday (All times are local to Barcelona: CET time UTC+0100)
 
 ### Morning: Basic foundation
 9:00-10:00 Zoom meeting: 
