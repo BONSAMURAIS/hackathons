@@ -58,6 +58,9 @@ Stretch goals:
  - Operable standards that demonstrate "interoperable life cycle inventory models"
  - Independent replication of one or more results
 
+Group members: Brandon, Carlos, Massimo, Miguel
+Coordinator: Brandon
+
 ## Outputs
 
 In addition to the following, we intend to submit 1-2 scientific publications on the hackathon results after its conclusion.
