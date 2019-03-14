@@ -61,6 +61,19 @@ Stretch goals:
 Group members: Brandon, Carlos, Massimo, Miguel
 Coordinator: Brandon
 
+### Coding standards
+
+The goal of this group is to make it easy to produce high quality code through library templates and practice guides.
+
+* [Python library skeleton](https://github.com/BONSAMURAIS/python-skeleton)
+
+Deliverables:
+* Python library skeleton (before hackathon)
+* Input tutorial on best practices (during hackathon)
+
+Group members: Brandon, Stefano, Tomas
+Coordinator: Tomas
+
 ## Outputs
 
 In addition to the following, we intend to submit 1-2 scientific publications on the hackathon results after its conclusion.
