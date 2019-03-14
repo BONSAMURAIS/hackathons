@@ -21,7 +21,7 @@ The BONSAI hackathon will be a first step in turning the ideals and standards de
 
 ## Working Groups
 
-See also the [working group dependency chart](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png).
+See also the [working group dependency chart](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) and [hackathon deliverables project board](https://github.com/orgs/BONSAMURAIS/projects/2). Note that you can add issues from your local repository as cards on the project board.
 
 ### bentso
 
@@ -33,16 +33,16 @@ Create a model that queries the [ENTSO-E API](https://transparency.entsoe.eu/con
 * Follow the BONSAI specifications for transparent, reproducible, and open models
 * Inputs and outputs follow the BONSAI RDF ontology
 
-Deliverable: Complete working model by the end of the hackathon. 
+Deliverable: [Complete working model](https://github.com/BONSAMURAIS/bentso/issues/4) by the end of the hackathon, [draft library](https://github.com/BONSAMURAIS/bentso/issues/3) before start of hackathon. 
 
 Stretch goal: Can be packaged in Docker and run as a web service.
 
 Group members: Arthur, Brandon, Carlos, Chris, Elias
 Coordinator: Chris
 
-### reproducibility
+### Reproducibility
 
-The goal of this working group is to provide transparency and reproducibility of the work products of the hackathon.
+The goal of this working group is to provide standards and best practices for making transparent and reproducible models, both for use in BONSAI and for the LCA/IE community in general.
 
 According to the dependency chart, *reproducible models*:
  - must generate "technical standards" for the bentso model and the SimaPro IO model
@@ -52,7 +52,7 @@ According to the dependency chart, *reproducible models*:
 
 Before the Hackathon: draft transparency guidelines for hackathon data products
 
-Deliverable: Operable standards that demonstrate reproducibility of data products
+Deliverable: Operable standards and checklist that demonstrate reproducibility of data products
 
 Stretch goals:
  - Operable standards that demonstrate "interoperable life cycle inventory models"
