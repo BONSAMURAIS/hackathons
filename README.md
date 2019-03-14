@@ -40,6 +40,24 @@ Stretch goal: Can be packaged in Docker and run as a web service.
 Group members: Arthur, Brandon, Carlos, Chris, Elias
 Coordinator: Chris
 
+### reproducibility
+
+The goal of this working group is to provide transparency and reproducibility of the work products of the hackathon.
+
+According to the dependency chart, *reproducible models*:
+ - must generate "technical standards" for the bentso model and the SimaPro IO model
+ - should generate "transparency guidelines" for those, plus also the correspondence tables.
+
+* [Source code](https://github.com/BONSAMURAIS/reproducibility)
+
+Before the Hackathon: draft transparency guidelines for hackathon data products
+
+Deliverable: Operable standards that demonstrate reproducibility of data products
+
+Stretch goals:
+ - Operable standards that demonstrate "interoperable life cycle inventory models"
+ - Independent replication of one or more results
+
 ## Outputs
 
 In addition to the following, we intend to submit 1-2 scientific publications on the hackathon results after its conclusion.
