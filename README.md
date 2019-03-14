@@ -37,8 +37,7 @@ Deliverable: [Complete working model](https://github.com/BONSAMURAIS/bentso/issu
 
 Stretch goal: Can be packaged in Docker and run as a web service.
 
-Group members: Arthur, Brandon, Carlos, Chris, Elias
-Coordinator: Chris
+Group members: Arthur, Brandon, Carlos, **Chris**, Elias
 
 ### Reproducibility
 
@@ -58,8 +57,7 @@ Stretch goals:
  - Operable standards that demonstrate "interoperable life cycle inventory models"
  - Independent replication of one or more results
 
-Group members: Brandon, Carlos, Massimo, Miguel
-Coordinator: Brandon
+Group members: **Brandon**, Carlos, Massimo, Miguel
 
 ### Coding standards
 
@@ -71,8 +69,7 @@ Deliverables:
 * Python library skeleton (before hackathon)
 * Input tutorial on best practices (during hackathon)
 
-Group members: Brandon, Stefano, Tomas
-Coordinator: Tomas
+Group members: Brandon, Stefano, **Tomas**
 
 ## Outputs
 
