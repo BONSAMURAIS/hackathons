@@ -77,7 +77,7 @@ This group aims at collecting and classifing existing correspondence tables and 
 
 Deliverables:
 * Provide recommendations on dealing with 1-N, N-1, M-N situations
-* Convert the correspondence tables in RDF format for entry into the database.
+* Convert the collected correspondence tables in RDF format for entry into the database.
 
 Group members: Michele, Mighuel, Brandon, Chris, Stefano, (...)
 
