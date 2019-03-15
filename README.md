@@ -71,6 +71,16 @@ Deliverables:
 
 Group members: Brandon, Stefano, **Tomas**
 
+### Correspondence tables
+
+This group aims at collecting and classifing existing correspondence tables and converting them in RDF format for entry into the database. [This](https://github.com/BONSAMURAIS/Correspondence-tables) is the link to the repository of the group and [this](https://bonsai.groups.io/g/hackathon2019/topic/30417494#141) the link to the discussion list dedicated to this topic.
+
+Deliverables:
+* Provide recommendations on dealing with 1-N, N-1, M-N situations
+* Convert the correspondence tables in RDF format for entry into the database.
+
+Group members: Michele, Mighuel, Brandon, Chris, Stefano, (...)
+
 ## Outputs
 
 In addition to the following, we intend to submit 1-2 scientific publications on the hackathon results after its conclusion.
