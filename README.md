@@ -69,7 +69,7 @@ Deliverables:
 * Python library skeleton (before hackathon)
 * Input tutorial on best practices (during hackathon)
 
-Group members: Brandon, Stefano, **Tomas**
+Group members: Brandon, **Tomas**
 
 ### Correspondence tables
 
