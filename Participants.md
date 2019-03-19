@@ -9,7 +9,7 @@
 * [Stefano Merciai](mailto:stefano.merciai@lca-net.com) | [Github: Stefano-MRC](https://github.com/Stefano-MRC) (2.0)
 * Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad)
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
-* [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
+* [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI);  Social event preference: 4,2,3,1; >30 years, not student
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
 * [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI); Social event preference: 4,2,1,3; >30 years, not student
