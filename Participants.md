@@ -12,7 +12,7 @@
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI)
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
-* [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI)
+* [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI); Social event preference: 4,2,1,3; >30 years, not student
 * [Arthur Jakobs](mailto:arthur.jakobs@indecol.uni-freiburg.de) | [Github: jakobsarthur](https://github.com/jakobsarthur) (Univ. Freiburg)
 
 ## Working remotely
