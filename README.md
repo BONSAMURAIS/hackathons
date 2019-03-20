@@ -16,6 +16,19 @@ Sustainability assessment, and life cycle assessment (LCA) in particular, is to 
 ## Working Groups
 
 See also the [working group dependency chart](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) and [hackathon deliverables project board](https://github.com/orgs/BONSAMURAIS/projects/2). Note that you can add issues from your local repository as cards on the project board.
+### Ontology
+#### Sub-group:RDF framework
+
+* Provide clear definition of the BONSAI ontology
+* Use the ontology to develop an RDF schema
+* Clear guidelines of schema structure and selected RDF framework
+
+Deliverable: [ Discussion on value judgments will be reported on the github repo](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework) by the end of the hackathon, [draft schema] (https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework/blob/master/Schema%20proposed%20by%20BONSAI_v1.md)
+
+Stretch goal: Develop queries or programs for typical queries to extract neccessary information from an RDF file
+
+Group members: Agneta, Elias, Bo, Matteo, Massimo, Stephano, Soren, Tomas
+
 
 ### bentso
 
