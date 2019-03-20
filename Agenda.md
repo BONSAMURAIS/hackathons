@@ -1,148 +1,122 @@
 # Hackathon preliminary agenda
 
-This agenda is **preliminary**, feel free to suggest or make changes!
-
-## Before the Hackathon
-
-The key to the hackathon being an effective use of our time is proper preparation. There are some tasks that everyone needs to do, to be ready to start on the first day. Other individual tasks are also listed below - please volunteer yourself for suitable tasks!
-
-I think that we will need an online meeting before the hackathon, about one week before the workshop.
-
-### Tasks for everyone
-
-* Schema finalized
-* Do basic tutorials using RDFLib
-* Background reading TBD
-* Review of EXIOBASE data and metadata
-* Choose new data source
-* Choice of inventory module
-* Read basic overview of relevant resources
-
-### Individual tasks
-
-| Task | Responsible |
-| --- | --- |
-| Design/find basic tutorials using RDFLib | ? |
-| Choose background reading | All (individual contributions) |
-| Extract or create lists of JSON-LD UUIDs for common data (units, etc.) | ? |
-| Map (or borrow existing mappings of) EXIOBASE elementary flows to ecoinvent | ? |
-| Pre-calculate example results for EXIOBASE in Brightway | Chris |
-| Generate basic overview of existing BONSAI or other relevant outside resources | Chris |
+This agenda is relatively fixed, but feel free to make changes via PR (please don't edit directly).
 
 ## Monday (All times are local to Barcelona: CET time UTC+0100)
 
-### Morning: Basic foundation
+### Introductory meeting
 
-9:00-10:00 Zoom meeting: 
+9:00 - 10:30 Zoom meeting: 
 
-* Review of our data schema
-* RDF parsing/construction (Matteo?)
-* DB access and querying
-* EXIOBASE structure and metadata
+* 9:00 - 9:15: Organization of hackathon (Chris)
+* 9:15 - 9:30: Review of RDF model, serialization, and querying (Matteo).
+* 9:30 - 9:45: Review of our data schema (includes gathering questions, but **not** extensive discussion) (Agneta).
+* 9:45 - 10:00: EXIOBASE structure and metadata (Stefano)
+* 10:00 - 10:15: IT at the hackathon (NAS, web apps) (Tomas)
+* 10:15 - 10:30: Introduction of remote participants present, questions
 
-10:00-13:00 Work in groups
+### Getting groups organized
 
-13:00-15:00 Lunch break (Note that we have long lunch breaks in order to enjoy that you are in sunny Barcelona and that we will enjoy splendid food - sorry for the rest of you J)
+10:30 - 11:15 Group work I
+11:15 - 12:00 Group work II
 
-### Afternoon: Getting EXIOBASE into database
+Some people are significant contributors to more than one group, so can switch at 11:15, or at their discretion.
 
-15:00-15:30 Zoom status meeting
+At the end of this time, each group should be ready to give an ~8 minute presentation (some groups get more as they are tackling more difficult problems), covering the following:
 
-15:30-18:30 Work in groups
+* Organizational structure and online media
+* Objective for the overall hackathon
+* Milestone for Monday evening
 
-* Mapping EXIOBASE categories to our standards (industry and product codes, locations, etc.)
-* Write parsers for EXIOBASE format to RDF
-* Entering data into Jena DB (possible evening or overnight)
-* Keep running list of schema or other potential future changes
+12:00 - 13:00 Group presentations (streamed via Zoom)
 
-18:30-19:00 Zoom status meeting
+### Lunch break (13:00 - 15:00)
 
-20:00-21:30 Dinner
+### Afternoon
 
-## Tuesday: Retrieving data from Jena as usable LCI datasets
+15:30 - 18:30 Group work
 
+18:30 - 19:30 Zoom status meeting
 
-9:00-9:30 Zoom meeting
+* Each group will review their progress, and self-assess
+* We will review our progress versus our ultimate objectives
 
-9:30-13:00 Work in groups:
+### Dinner (20:00 - 21:30)
 
-* Review JSON-LD format
-* Write queries to join relevant data to create datasets as JSON-LD
-* Test LCA results against existing implementation in Brightway
+## Tuesday: 
 
-13:00-15:00 Lunch break
+9:00 - 9:30 Zoom meeting
 
-15:00-15:30 Zoom status meeting
+* Each group will review their progress, and set a milestone for today
+* We will review our progress versus our ultimate objectives
 
-15:30-18:30 Work in groups
+9:30 - 13:00 Work in groups
 
-18:30-19:00 Zoom status meeting
+### Lunch break (13:00 - 15:00)
 
-20:00-21:30 Dinner
+15:00 - 18:30 Work in groups
+
+18:30 - 19:30 Zoom status meeting
+
+* Each group will review their progress, and self-assess
+* We will review our progress versus our ultimate objectives
+
+### Dinner (20:00 - 21:30)
 
 ## Wednesday
 
-### Morning: Addition of new data sources (TBD)
+### Morning
 
-9:00-9:30 Zoom meeting
+9:00 - 9:30 Zoom meeting
 
-9:30-13:00 Work in groups:
+* Each group will review their progress, and set a milestone for today
+* We will review our progress versus our ultimate objectives
 
-* Map metadata to our standards
-* Write parsers to RDF
-* Enter data into Jena DB
+9:30 - 13:00 Work in groups
 
 ### Afternoon
-Social event
+
+Lunch & social event
 
 ## Thursday
 
-9:00-9:30 Zoom meeting
+9:00 - 9:30 Zoom meeting
 
-9:30-13:00 Work in groups:
+* Each group will review their progress, and set a milestone for today
+* We will review our progress versus our ultimate objectives
 
-### Group A: Data reconciliation
+9:30 - 13:00 Work in groups
 
-* Data reconciliation algorithms: Theory and practice (possible link to pre-workshop reading)
-* Data reconciliation of new data source and EXIOBASE
-* How to store reconciled data: Best practices and implementation in our database
+### Lunch break (13:00-15:00)
 
-**Goal**: Implementation of a small test algorithm
+15:00 - 18:30 Work in groups
 
-### Group B: Inventory modules
-By inventory modules, we mean a basic model of a process or industrial sector that can be easily updated, manually or (preferably) automatically, as well as applied to multiple world regions.
+18:30 - 19:30 Zoom status meeting
 
-* Programming standards and common APIs (or meta-APIs)
-* Best practices for testing and documentation
-* Implementation of a pre-selected inventory module in Python
+* Each group will review their progress, and self-assess
+* We will review our progress versus our ultimate objectives
 
-**Goal**: Implementation of a small test model
-
-13:00-15:00 Lunch break
-
-15:00-15:30 Zoom status meeting: Sharing approaches, challenges, and potential solutions between groups
-
-15:30-18:30 Work in groups
-
-18:30-19:00 Zoom status meeting
-
-20:00-21:30 Dinner
+### Dinner (20:00 - 21:30)
 
 ## Friday
 
-### First part
+### Morning
 
-9:00-9:30 Zoom meeting
+9:00 - 9:30 Zoom meeting
 
-9:30-10:30 Groups document and publish their work
+* Each group will review their progress, and set a milestone for today
+* We will review our progress versus our ultimate objectives
 
-10:30-12:30 Each group reviews and tests out the work of the other group
+9:30 - 13:00 Concluding group work
 
-12:30-13:30: Finishing up any outstanding tasks
+12:00 - 13:00 Light buffet lunch
 
-13:30-14:00 Zoom closing meeting:
+### Closing
 
-* Organization of workshop report paper
+13:00 - 14:00 Zoom closing meeting:
+
+* Final report of working groups: objectives, lessons learned, next steps
+* Organization of workshop report papers
 * Planning for & assignment of next steps
 
-14:00-16:00 Farewell meal and celebration 
+14:00 - 16:00 Farewell meal and celebration 
