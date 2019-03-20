@@ -7,7 +7,7 @@
 * [Agneta Ghose](mailto:agneta@plan.aau.dk) | [Github: agneta20](https://github.com/agneta20) (Univ. Aalborg)  Social event preference: 3,1,2,4; 30 years, not student
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) | [Github: kuzeko](https://github.com/kuzeko)  (Univ. Aalborg)Social event preference: 1,2,3,4; >30 years, not student
 * [Stefano Merciai](mailto:stefano.merciai@lca-net.com) | [Github: Stefano-MRC](https://github.com/Stefano-MRC) (2.0)
-* Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad) 4,2,1,3; >30 years, not student
+* Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad); Social event preference: 4,2,1,3; >30 years, not student
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon)
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI);  Social event preference: 4,2,3,1; >30 years, not student
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
