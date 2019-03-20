@@ -107,9 +107,7 @@ Lunch & social event
 * Each group will review their progress, and set a milestone for today
 * We will review our progress versus our ultimate objectives
 
-9:30 - 13:00 Concluding group work
-
-12:00 - 13:00 Light buffet lunch
+9:30 - 14:00 Concluding group work
 
 ### Closing
 
