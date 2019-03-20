@@ -23,7 +23,7 @@ See also the [working group dependency chart](https://github.com/BONSAMURAIS/hac
 * Use the ontology to develop an RDF schema
 * Clear guidelines of schema structure and selected RDF framework
 
-Deliverable: [ Discussion on value judgments will be reported on the github repo](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework) by the end of the hackathon, [draft schema] (https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework/blob/master/Schema%20proposed%20by%20BONSAI_v1.md)
+Deliverable: [ Discussion on value judgments will be reported on the github repo](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework) by the end of the hackathon, [draft schema](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework/blob/master/Schema%20proposed%20by%20BONSAI_v1.md)
 
 Stretch goal: Develop queries or programs for typical queries to extract neccessary information from an RDF file
 
