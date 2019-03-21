@@ -5,6 +5,7 @@
 * [Miguel Astudillo](mailto:Miguel.astudillo@lca-net.com)  | [Github: mfastudillo](https://github.com/mfastudillo) (2.0)
 * [Carlos Gaete](mailto:cgaete@diw.de) | [Github: cdgaete](https://github.com/cdgaete) (DIW Berlin)  Social event preference: 4,3,2,1; >30 years, no student
 * [Agneta Ghose](mailto:agneta@plan.aau.dk) | [Github: agneta20](https://github.com/agneta20) (Univ. Aalborg)  Social event preference: 3,1,2,4; 30 years, not student
+* [Arthur Jakobs](mailto:arthur.jakobs@indecol.uni-freiburg.de) | [Github: jakobsarthur](https://github.com/jakobsarthur) (Univ. Freiburg) 4,2,1,3; <30 years, not student
 * [Matteo Lissandrini](mailto:matteo@cs.aau.dk) | [Github: kuzeko](https://github.com/kuzeko)  (Univ. Aalborg)Social event preference: 1,2,3,4; >30 years, not student
 * [Stefano Merciai](mailto:stefano.merciai@lca-net.com) | [Github: Stefano-MRC](https://github.com/Stefano-MRC) (2.0)
 * Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad); Social event preference: 4,2,1,3; >30 years, not student
@@ -13,7 +14,6 @@
 * [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST); Social event preference: 4,2,3,1; >30 years, not student
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
 * [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI); Social event preference: 4,2,1,3; >30 years, not student
-* [Arthur Jakobs](mailto:arthur.jakobs@indecol.uni-freiburg.de) | [Github: jakobsarthur](https://github.com/jakobsarthur) (Univ. Freiburg) 4,2,1,3; <30 years, not student
 
 ## Working remotely
 
