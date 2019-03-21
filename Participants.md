@@ -10,7 +10,7 @@
 * Tom Millross | [Github: tmillross](https://github.com/tmillross) (CML, Leiden, MSc. grad); Social event preference: 4,2,1,3; >30 years, not student
 * [Tiago Morais](mailto:tiago.g.morais@tecnico.ulisboa.pt) (Univ. Lisbon) | [Github: tgmorais1](https://github.com/tgmorais1); Social event preference: 2,3,4,1; <30 years, student
 * [Chris Mutel](mailto:chris.mutel@bonsai.uno) | [Github: cmutel](https://github.com/cmutel) (BONSAI);  Social event preference: 4,2,3,1; >30 years, not student
-* [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST)
+* [Tomas Navarrete](mailto:tomas.navarrete@list.lu) | [Github: tngTUDOR](https://github.com/tngTUDOR) (LIST); Social event preference: 4,2,3,1; >30 years, not student
 * [Rutger Schurgers](mailto:Schurgers@pre-sustainability.com) (PRé)
 * [Bo Weidema](mailto:bo.weidema@bonsai.uno) | [Github: boweidema](https://github.com/boweidema) (BONSAI); Social event preference: 4,2,1,3; >30 years, not student
 * [Arthur Jakobs](mailto:arthur.jakobs@indecol.uni-freiburg.de) | [Github: jakobsarthur](https://github.com/jakobsarthur) (Univ. Freiburg) 4,2,1,3; <30 years, not student
