@@ -15,6 +15,8 @@ Sustainability assessment, and life cycle assessment (LCA) in particular, is to 
 
 ## Working Groups
 
+*Important!* All active working groups, please register yourselves on the [working groups](working-groups.md) status page.  Every deliverable project should be listed there with its project lead, inputs and outputs.
+
 See also the [working group dependency chart](https://github.com/BONSAMURAIS/hackathon-2019/blob/master/project-dependencies.png) and [hackathon deliverables project board](https://github.com/orgs/BONSAMURAIS/projects/2). Note that you can add issues from your local repository as cards on the project board.
 ### Ontology
 #### Sub-group:RDF framework
