@@ -21,7 +21,7 @@
 * [Brandon Kuczenski](mailto:bkuczenski@ucsb.edu) | [Github: bkuczenski](https://github.com/bkuczenski) (UCSB)
 * [Massimo Pizzol](mailto:massimo@plan.aau.dk) | [Github: massimopizzol](https://github.com/massimopizzol) (Univ. Aalborg) 
 * [Miguel Remolona](mailto:mmremolona@yahoo.com.ph) | [Github: mmr2187](https://github.com/) (Univ. Philippines Diliman)
-* [Xiaojin Zhang](mailto:Xiaojin.Zhang@psi.ch) (Paul Scherrer Institut)
+* [Xiaojin Zhang](mailto:Xiaojin.Zhang@psi.ch) | [Github: xiaoshir](https://github.com/xiaoshir) (Paul Scherrer Institut)
 * [Felipe Cerdas](mailto:f.cerdasg@tu-braunschweig.de) | [Github: Felipecerdasmarin](https://github.com/Felipecerdasmarin) (TU Braunschweig)
 * [Michele De Rosa](mailto:michele.derosa@bonsai.uno) | [Github: MicDr](https://github.com/MicDr) (BONSAI) 
 * [Romain Sacchi](mailto:r_s@me.com) | [Github: romainsacchi](https://github.com/romainsacchi) (Univ. Aalborg) 
