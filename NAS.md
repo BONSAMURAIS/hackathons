@@ -19,3 +19,9 @@ On my computer, the NAS mounts as `/Volumes/public/`. So to use the NAS data:
 
     import bentso
     cl = bentso.CachingDataClient("/Volumes/public/disk1/bentso/")
+
+## How NAS was set up
+
+https://howtoraspberrypi.com/create-a-nas-with-your-raspberry-pi-and-samba/
+
+https://desertbot.io/blog/headless-raspberry-pi-3-bplus-ssh-wifi-setup
