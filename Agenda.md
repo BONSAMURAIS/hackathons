@@ -9,6 +9,13 @@ This agenda is relatively fixed, but feel free to make changes via PR (please do
 9:00 - 10:30 Zoom meeting: 
 
 * 9:00 - 9:15: Organization of hackathon (Chris)
+    * Objective: A **complete** working first version on BONSAI
+    * Working groups: https://hackathon.bonsai.uno/
+    * Each working group should have one Github repi (can split working groups)
+    * Each person on-site should be the coordinator of one working group
+    * Track detailed progress on project board: https://github.com/orgs/BONSAMURAIS/projects/2
+    * Structure will evolve during hackathon
+    * Can call all-team meeting anytime (with a bit of warning)
 * 9:15 - 9:30: Review of RDF model, serialization, and querying (Matteo).
 * 9:30 - 9:45: Review of our data schema (includes gathering questions, but **not** extensive discussion) (Agneta).
 * 9:45 - 10:00: EXIOBASE structure and metadata (Stefano)
@@ -32,6 +39,8 @@ At the end of this time, each group should be ready to give an ~8 minute present
 
 ### Lunch break (13:00 - 15:00)
 
+Theme: New data sources and applications
+
 ### Afternoon
 
 15:30 - 18:30 Group work
@@ -53,6 +62,8 @@ At the end of this time, each group should be ready to give an ~8 minute present
 9:30 - 13:00 Work in groups
 
 ### Lunch break (13:00 - 15:00)
+
+Theme: tbd
 
 15:00 - 18:30 Work in groups
 
@@ -88,6 +99,8 @@ Lunch & social event
 9:30 - 13:00 Work in groups
 
 ### Lunch break (13:00-15:00)
+
+Theme: Future funding and networking
 
 15:00 - 18:30 Work in groups
 
