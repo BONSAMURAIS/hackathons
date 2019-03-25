@@ -14,5 +14,7 @@ Every entry should have a consistent format.  The record should include:
  - a level-3 heading for task Outputs
    - a bullet list of all generated outputs, *linked* to the generated outputs within the github repo
 
-And that's it! Good luck!
+And that's it!  Further details can be found within the [reproducibility repo](https://github.com/BONSAMURAIS/reproducibility/blob/master/working-groups.md)
+
+Good luck!
 
