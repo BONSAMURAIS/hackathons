@@ -4,10 +4,10 @@ Used for resources that we will all access frequently, or that require time to q
 
 Mount as a SAMBA drive.
 
-IP: 192.168.1.38
-Username: pi
-Password: raspberry
-Drive to mount: `public`
+* IP: 192.168.1.38
+* Username: pi
+* Password: raspberry
+* Drive to mount: `public`
 
 ## Mount on MacOS
 
