@@ -102,7 +102,9 @@ Lunch & social event
 
 Theme: Future funding and networking
 
-15:00 - 18:30 Work in groups
+15:00 - 15:30 Zoom status meeting
+
+15:30 - 18:30 Work in groups
 
 18:30 - 19:30 Zoom status meeting
 
