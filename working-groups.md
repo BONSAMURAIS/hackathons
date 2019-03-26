@@ -16,5 +16,14 @@ Every entry should have a consistent format.  The record should include:
 
 And that's it!  Further details can be found within the [reproducibility repo](https://github.com/BONSAMURAIS/reproducibility/blob/master/working-groups.md)
 
+[bentso Tasks](https://github.com/BONSAMURAIS/reproducibility/tasks-bentso.md)
+
+[system-model Tasks](https://github.com/BONSAMURAIS/reproducibility/tasks-system-model.md)
+
+[EXIOBASE-conversion-software Tasks](https://github.com/BONSAMURAIS/reproducibility/tasks-EXIOBASE-conversion-software.md)
+
+
+
+
 Good luck!
 
