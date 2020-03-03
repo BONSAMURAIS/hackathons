@@ -10,7 +10,7 @@ One of the key advances in the BONSAI approach is the use of many different kind
 
 ## B. Harmonization and System Models
 
-This theme will consist of a series of Python software libraries that will each work on a specific step in data processing. Data IO will come via CSV with Data Package metadata.
+This theme will consist of a series of Python software libraries that will each work on a specific step in data processing. Data IO will come via CSV with [Data Package](https://frictionlessdata.io/data-packages/) metadata.
 
 ### Harmonization
 
