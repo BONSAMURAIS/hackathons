@@ -6,7 +6,7 @@ In the Spring 2020 hackathon, we are shifting our emphasis from ontologies and s
 
 ## A. Introduction of new data sources
 
-One of the key advances in the BONSAI approach is the use of many different kinds of data to both generate and validate our system. For example, we can use techniques and data from material flow analysis to understand major or critical mass flows missing or out of balance in our life cycle inventories. Remote sensing data can serve as independent validation data, giving us rough estimates on how far our models depart from observations. We can also automatically combine data sources to give a complete picture of the inputs and outputs of specific technologies. As a first step, BONSAI will make these many data sources available with a common nomenclature and ontology, so that individual researchers can test different approaches to building consistent, complete, and comprehensive datasets. The hackathon will build on [existing work](https://github.com/BONSAMURAIS/vacuum_pump/) to import a number of [new data sources](https://github.com/BONSAMURAIS/vacuum_pump/issues?q=is%3Aissue+is%3Aopen+label%3Adata-source). We will use this intial data source to test and adapt our system concepts & nomenclature lists.
+One of the key advances in the BONSAI approach is the use of many different kinds of data to both generate and validate our system. For example, we can use techniques and data from material flow analysis to understand major or critical mass flows missing or out of balance in our life cycle inventories. Remote sensing data can serve as independent validation data, giving us rough estimates on how far our models depart from observations. We can also automatically combine data sources to give a complete picture of the inputs and outputs of specific technologies. As a first step, BONSAI will make these many data sources available with a common nomenclature and ontology, so that individual researchers can test different approaches to building consistent, complete, and comprehensive datasets. The hackathon will build on [existing work](https://github.com/BONSAMURAIS/vacuum_pump/) to import a number of [new data sources](https://github.com/BONSAMURAIS/vacuum_pump/issues?q=is%3Aissue+is%3Aopen+label%3Adata-source). We will use these intial data sources to test and adapt our system concepts & nomenclature lists.
 
 ## B. Data harmonization and system models
 
@@ -26,14 +26,16 @@ Should be based on objective/scientific quantitative methods (reduction of uncer
 * Time (assumption is intervals consisting of years)
 * Technology (activities and products)
 
-### Linking suppliers and consumers
-
-Need policy on "rest of" fields, e.g. EXIOBASE versus technology-specific data: should we subtract the technology-specific data from the aggregated totals?
-
 ### Applying system models
 
-* Allocation of multi-output or waste flows (if allocation is used)
-* Construction of markets (if markets are used)
+System models are a systematic formulation of practitioner choices in cases where there is no "correct" alternative. This library will build off the substantial research and code produced in the [Ocelot project](https://ocelot.space/), and produce algorithmic options for:
+
+* Allocation of multiple output products/recyclable waste flows (if allocation is used)
+* Construction of markets (if markets are used): Should the average mix or marginal producer be chosen? Should markets always/sometimes/never be used as modelling constructs, or should suppliers link directly to consumers.
+
+Includes linking suppliers and consumers.
+
+At first, build off well known system constructs from Input-Output modelling which have [software implementations](https://github.com/stefanpauliuk/pySUT).
 
 ### Validation
 
@@ -41,6 +43,8 @@ Need policy on "rest of" fields, e.g. EXIOBASE versus technology-specific data: 
 * Some data is set aside as validation data (e.g. atmospheric measurements)
 * Boot-strapping
 * Statistics on unmet demand or supply
+
+Outputs from validation can feed into earlier libraries in an iterative fashion.
 
 ## Preparation
 
