@@ -1,23 +1,22 @@
 # BONSAI Hackathon Spring 2020: Realizing the promise
 
-At our hackathon in 2019, we established an ontology for BONSAI data, and developed prototypes for a set of software libraries to take in raw data and output consolidated life cycle inventories. Details on this hackathon can be found at https://github.com/BONSAMURAIS/hackathon-2019.
+At our [hackathon in 2019](https://github.com/BONSAMURAIS/hackathon-2019), we established an ontology for BONSAI data, and developed prototypes for a set of software libraries to take in raw data and output consolidated life cycle inventories.
 
-In the Spring 2020 hackathon, we are shifting our emphasis from ontologies and semantic web databases to get a complete toolchain that can produce a truly open, consistent, and comprehensive database for use in life cycle assessment and material flow analysis. We will build on the produced ontologies (link), correspondence tables (link), and database schema (link), and add the following:
+In the Spring 2020 hackathon, we are shifting our emphasis from ontologies and semantic web databases to get a complete tool chain that can produce a truly open, consistent, and comprehensive database for use in life cycle assessment and material flow analysis. We will build on the produced [ontologies](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework), [correspondence tables](https://github.com/BONSAMURAIS/correspondence_tables), and [database schema](https://github.com/BONSAMURAIS/schema), and add the following themes:
 
 ## A. Introduction of new data sources
 
-One of the key advances in the BONSAI approach is the use of many different kinds of data to both generate and validate our system. For example, we can use techniques and data from material flow analysis to understand major or critical mass flows missing or out of balance in our life cycle inventories. Similarly, remote sensing data can serve as independent validation data, giving us rough estimates on how far our models depart from observations. We can also combine data sources automatically to generate specific models. In the first priority, BONSAI will make these many data sources available with a common nomenclature and ontological, so that individual researchers can test different approaches in each system modelling step. The hackathon theme will build on an [existing repository](https://github.com/BONSAMURAIS/vacuum_pump/) to import a number of [new data sources](https://github.com/BONSAMURAIS/vacuum_pump/issues?q=is%3Aissue+is%3Aopen+label%3Adata-source), and adapt our system concepts & nomenclature lists based on this experience.
+One of the key advances in the BONSAI approach is the use of many different kinds of data to both generate and validate our system. For example, we can use techniques and data from material flow analysis to understand major or critical mass flows missing or out of balance in our life cycle inventories. Remote sensing data can serve as independent validation data, giving us rough estimates on how far our models depart from observations. We can also automatically combine data sources to give a complete picture of the inputs and outputs of specific technologies. As a first step, BONSAI will make these many data sources available with a common nomenclature and ontology, so that individual researchers can test different approaches to building consistent, complete, and comprehensive datasets. The hackathon will build on [existing work](https://github.com/BONSAMURAIS/vacuum_pump/) to import a number of [new data sources](https://github.com/BONSAMURAIS/vacuum_pump/issues?q=is%3Aissue+is%3Aopen+label%3Adata-source). We will use this intial data source to test and adapt our system concepts & nomenclature lists.
 
-## B. Harmonization and System Models
+## B. Data harmonization and system models
 
-This theme will consist of a series of Python software libraries that will each work on a specific step in data processing. Data IO will come via CSV with [Data Package](https://frictionlessdata.io/data-packages/) metadata.
+This theme will consist of a series of Python software libraries that will each work on a specific step in data processing. A common data format, CSV with [Data Package](https://frictionlessdata.io/data-packages/) metadata, will be used for both inputs and outputs, allowing each library to be developed independently (ETL workflow).
 
-### Harmonization
+### Data harmonization
 
-* Mapping of native nomenclature system to common base naming system
-    * e.g. HS tariff product codes, ISIC industry code, ISO country/region codes
-    * Mapping allows for incomplete matching
-* Allocation where necessary (if allocation is used)
+Data harmonization is the construction and application of correspondence mappings, so that data provided with different naming and modelling approaches can be combined. Correspondence mappings can be one-to-one, one-to-many, or many-to-many, and are stored as open metadata. To handle many different naming systems, BONSAI is using a single common base based on international standards (e.g. [HS tariff product codes](https://en.wikipedia.org/wiki/Harmonized_System), [ISIC industry code](https://en.wikipedia.org/wiki/International_Standard_Industrial_Classification), [ISO country/region codes](https://www.iso.org/iso-3166-country-codes.html), though our software allows for exceptions in specific cases.
+
+Data harmonization could sometimes require allocation. For example, if widget production is only available for the EU, additional data sources would be used to disaggregate production to each EU member state. Such data could be specific to the product or industrial activity, or could be proxy data such as GDP or population. Both data and disaggregation algorithms should be open and transparent.
 
 ### Choice of scale
 
