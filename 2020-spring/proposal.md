@@ -2,7 +2,7 @@
 
 At our [hackathon in 2019](https://github.com/BONSAMURAIS/hackathon-2019), we established an ontology for BONSAI data, and developed prototypes for a set of software libraries to take in raw data and output consolidated life cycle inventories.
 
-In the Spring 2020 hackathon, we are shifting our emphasis from ontologies and semantic web databases to get a complete tool chain that can produce a truly open, consistent, and comprehensive database for use in life cycle assessment and material flow analysis. We will build on the produced [ontologies](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework), [correspondence tables](https://github.com/BONSAMURAIS/correspondence_tables), and [database schema](https://github.com/BONSAMURAIS/schema), and add the following themes:
+In the Spring 2020 hackathon, we are shifting our emphasis from ontologies and semantic web databases to get a complete tool chain that can produce a truly open, consistent, and comprehensive database for use in life cycle assessment and material flow analysis. We will build on the produced [ontologies](https://github.com/BONSAMURAIS/BONSAI-ontology-RDF-framework), [correspondence tables](https://github.com/BONSAMURAIS/correspondence_tables), and [database schema](https://github.com/BONSAMURAIS/schema), and add themes describe below. The goal of the Spring 2020 hackathon is **to produce a complete set of libraries and data workflows such that a) a complete downloadable database can be produced, and b) the system can automatically incorporate new data sources**.
 
 ## A. Introduction of new data sources
 
