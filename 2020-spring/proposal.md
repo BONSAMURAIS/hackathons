@@ -52,7 +52,7 @@ As in previous hackathons, the core members of the BONSAI project will prepare t
 
 ## Time & Location
 
-May 2020, Berlin
+May 2020, Online or in Berlin
 
 ## Expected participation (very approximate)
 
